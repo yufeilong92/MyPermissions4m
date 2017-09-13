@@ -37,32 +37,32 @@ Programmer: "f**k 小米！"
 > 原生 Android 请求方式在小米等国内机型上适配的情形，相信有部分读者已经有过经历，这里就不做原生测试了，拿出国内一个比较有名的权限申请框架我们来看看：
 
 >小米申请地理位置：<br />
- ![](https://user-gold-cdn.xitu.io/2017/9/11/c7b64e39416ef91c776e2f5fb3eeadba?imageView2/0/w/1280/h/960)
+ ![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/a.gif)
 >小米申请联系人：<br />
-![](https://user-gold-cdn.xitu.io/2017/9/11/aae1e68ea3902843ddde058ddb6590d8?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/b.gif)
 >小米申请手机状态：<br />
-![](https://user-gold-cdn.xitu.io/2017/9/11/cca281e1f29924f534721b8aa7a73778?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/c.gif)
 
 其实不仅仅是小米，国内其它手机也会有一样的问题，笔者再做了一份 oppo a57 的截图：
-![](https://user-gold-cdn.xitu.io/2017/9/11/26cfd4e77f7da1a1df81c39e43d9614d?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/d.gif)
 
 可以看到，在申请过程中并没有任何弹窗弹出，并且提示授权成功，而实际上我们到权限管理界面可以看到并未得到权限。
 
 下图是使用 permissions4m 的效果：
 
 permissions4m 申请地理位置（小米）：<br />
-![](https://user-gold-cdn.xitu.io/2017/9/11/417369a3dc4634bbff0a6aff95c1a8f9?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/e.gif)
 
 
 permissions4m 申请联系人（小米）：<br />
-![](https://user-gold-cdn.xitu.io/2017/9/11/84341a5005201660ad7f69e90a920e48?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/q.gif)
 permissions4m 申请手机状态（小米）：<br />
 这里写图片描述
-![](https://user-gold-cdn.xitu.io/2017/9/11/abe248cec1c4f8a0e8a174eebd1312a1?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/r.gif)
 permissions4m 申请短信、日历（OPPO A57）<br />
 
 这里写图片描述<br />
-![](https://user-gold-cdn.xitu.io/2017/9/11/1ea3a5752820ac2e521e71429ee7965c?imageView2/0/w/1280/h/960)
+![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/f.gif)
 
 我们可以看到弹出了权限申请对话框，而且授予权限的情况下确实获得了权限。
 
