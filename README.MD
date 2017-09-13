@@ -57,7 +57,7 @@ permissions4m 申请地理位置（小米）：<br />
 permissions4m 申请联系人（小米）：<br />
 ![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/q.gif)<br />
 permissions4m 申请手机状态（小米）：<br />
-这里写图片描述
+这里写图片描述<br />
 ![](https://github.com/yufeilong92/MyPermissions4m/blob/master/icon/r.gif)<br />
 permissions4m 申请短信、日历（OPPO A57）<br />
 
